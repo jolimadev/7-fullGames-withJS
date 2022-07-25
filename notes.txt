@@ -1,0 +1,15 @@
+Readme. 7full games
+
+Usos de:
+.querySelectorAll(
+.querySelector()
+.forEach()
+.classList.add()
+Math.floor()
+Math.random()
+.addEventListener()
+.textContent
+.id
+setInterval()
+clearInterval()
+alert()

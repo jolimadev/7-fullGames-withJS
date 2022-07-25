@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #ff99c2;
+    color: #fffefe;
+}
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fffefe;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: solid black 1px;
+}
+.mole {
+    background-image: url("./image/worldcup.jpg");
+    background-size: cover;
+
+}

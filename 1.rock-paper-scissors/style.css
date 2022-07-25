@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    color: antiquewhite;
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    
+} 
+/*Later add flex or grid to style*/
+
+button {
+    height: 50px;
+    width: 50px;
+    font-size: 1.8rem;
+   
+}

@@ -1,0 +1,13 @@
+
+
+body {
+    font-family: sans-serif;
+    color:darkgrey ;
+}
+
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+}
