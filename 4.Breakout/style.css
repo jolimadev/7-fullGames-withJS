@@ -1,0 +1,32 @@
+
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid black 1px;
+    background-image: url('https://www.infobae.com/new-resizer/_7uybzTMg838QNG9IF3NXjF441A=/768x432/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/06/04140052/GENTE-Messi-01.jpg');
+    background-position: cover;
+    margin-top: 90px;
+}
+/*bloques,blocks*/
+.block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color:#e80966;
+}
+/*usuario.userblock*/
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-image: linear-gradient(to bottom, #74acdf, #98b9e6, #b6c7eb, #d0d7f1, #e6e7f6, #e6e7f6, #e6e7f6, #e6e7f6, #d0d7f1, #b6c7eb, #98b9e6, #74acdf);
+}
+/*bola.ball*/
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: rgb(224, 184, 41);
+}
